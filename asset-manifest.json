@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TwinWingames_test/static/css/main.c2f10969.chunk.css",
+    "main.js": "/TwinWingames_test/static/js/main.815a0d6b.chunk.js",
+    "main.js.map": "/TwinWingames_test/static/js/main.815a0d6b.chunk.js.map",
+    "runtime~main.js": "/TwinWingames_test/static/js/runtime~main.f1832b32.js",
+    "runtime~main.js.map": "/TwinWingames_test/static/js/runtime~main.f1832b32.js.map",
+    "static/js/2.64a01280.chunk.js": "/TwinWingames_test/static/js/2.64a01280.chunk.js",
+    "static/js/2.64a01280.chunk.js.map": "/TwinWingames_test/static/js/2.64a01280.chunk.js.map",
+    "index.html": "/TwinWingames_test/index.html",
+    "precache-manifest.b1d26ce3d4bc22081daf3e1334208b75.js": "/TwinWingames_test/precache-manifest.b1d26ce3d4bc22081daf3e1334208b75.js",
+    "service-worker.js": "/TwinWingames_test/service-worker.js",
+    "static/css/main.c2f10969.chunk.css.map": "/TwinWingames_test/static/css/main.c2f10969.chunk.css.map"
+  }
+}
